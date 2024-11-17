@@ -11,7 +11,7 @@ This project showcases an interactive data visualization dashboard using Chart.j
 ## Live Demo
 
 You can view the live demo of this project at the following link:  
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://sunnykumar-code.github.io/Interactive-Data-Visualization/)
 
 ## Installation
 
